@@ -1,0 +1,26 @@
+{
+  "name": "poke-pride",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash.template": "^4.5.0",
+    "mongoose": "^5.5.15",
+    "pokedex-promise-v2": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strontiumsun/poke-pride.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strontiumsun/poke-pride/issues"
+  },
+  "homepage": "https://github.com/Strontiumsun/poke-pride#readme"
+}
